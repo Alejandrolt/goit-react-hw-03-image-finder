@@ -50,7 +50,7 @@ class Searchbar extends Component {
       <AppHeader>
         <form className="form" onSubmit={this.handleSubmit}>
           <AppButton type="submit" className="button">
-            <span className="button-label">Buscar</span>
+            <span className="button-label">Search</span>
           </AppButton>
 
           <AppInput
