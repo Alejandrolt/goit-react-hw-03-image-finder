@@ -12,7 +12,7 @@ const ButtonLoad = styled.button`
   margin: 0 auto;
 
   &:hover {
-    background-color: #b0f2c2;
+    background-color: #034403;
   }
 `;
 
